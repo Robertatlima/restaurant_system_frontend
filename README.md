@@ -1,4 +1,4 @@
-Nextjs/reactjs/contextApi/sass
+Nextjs/reactjs/contextApi/sass/typescript
 
 x - Cadastrar um novo usuário                                                                        
 x - Logar um usuário                                                                        
